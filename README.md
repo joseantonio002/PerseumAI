@@ -91,3 +91,9 @@ MIT License.
 - Improvements by Aitor Alonso (2023)
 - Current version enhanced with neural networks, algorithm refinements, and a new UI.
 
+---
+
+## Final Note
+
+This project was developed as my **Bachelor’s Thesis (Trabajo Final de Grado - TFG)**.<br />
+You can find the thesis report [here](https://riull.ull.es/xmlui/handle/915/39946). For this work, I received the highest grade possible (10 out of 10).
