@@ -1,0 +1,5 @@
+Tipo_Ejecucion,Tamaño_Ventana,Tipo_Patron,Numero_encontrados,Distancia_media,Tiempo
+Automático,0,head_and_shoulders,5,11.03,0.83
+Automático,0,inv_head_and_shoulders,4,10.07,0.83
+Automático,0,ascending_triangle,10,12.62,0.83
+Automático,0,descending_triangle,10,7.38,0.83

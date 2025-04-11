@@ -1,0 +1,12 @@
+dtw-python
+yfinance
+numpy<2.0
+matplotlib
+pandas
+tk
+tkcalendar
+pillow
+PyQt5
+PyQt5-tools
+torch
+torchvision

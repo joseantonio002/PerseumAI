@@ -1,0 +1,9 @@
+Tipo_Ejecucion,Tipo_Patron,Numero_encontrados
+Original,head_and_shoulders,9
+Mejorado,head_and_shoulders,34
+Original,inv_head_and_shoulders,4
+Mejorado,inv_head_and_shoulders,21
+Original,ascending_triangle,17
+Mejorado,ascending_triangle,44
+Original,descending_triangle,2
+Mejorado,descending_triangle,4
